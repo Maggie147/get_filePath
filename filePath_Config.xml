@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<filePath_Config>
+    <SMTP name='MoudleName'>
+        <Path enable="1" name="AttPath">/home/share/smtp_attachfile</Path>
+        <Path enable="1" name="AttPath2">/home/share/backup</Path>
+        <Path enable="1" name="streamPath">/home/share/streamFile/SMTP</Path>
+    </SMTP>
+</filePath_Config>
